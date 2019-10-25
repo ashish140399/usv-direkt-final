@@ -1,0 +1,14 @@
+2019-10-22T08:46:52+00:00 CRITICAL syntax error, unexpected 'do_action' (T_STRING) in D:\wamp64\www\direkt2\wp-content\plugins\woocommerce\templates\single-product\product-image.php on line 50
+
+2019-10-22T09:07:04+00:00 CRITICAL syntax error, unexpected ')' in D:\wamp64\www\direkt2\wp-content\plugins\woocommerce\templates\content-single-product.php on line 34
+
+2019-10-22T09:20:50+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in D:\wamp64\www\direkt2\wp-content\plugins\woocommerce\templates\content-single-product.php on line 62
+
+2019-10-22T09:22:09+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in D:\wamp64\www\direkt2\wp-content\plugins\woocommerce\templates\content-single-product.php on line 62
+
+2019-10-22T09:26:53+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\wamp64\www\direkt2\wp-content\plugins\woocommerce\templates\content-single-product.php on line 185
+
+2019-10-22T09:27:04+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\wamp64\www\direkt2\wp-content\plugins\woocommerce\templates\content-single-product.php on line 202
+
+2019-10-22T09:28:14+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\wamp64\www\direkt2\wp-content\plugins\woocommerce\templates\content-single-product.php on line 202
+
